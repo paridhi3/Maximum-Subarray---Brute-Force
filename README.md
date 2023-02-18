@@ -1,4 +1,4 @@
-# Maximum-Subarray - Brute-Force (Loop through every subarray)
+# Maximum Subarray - Brute-Force (Loop through every subarray)
 ## Given an integer array nums, find the subarray with the largest sum, and print its sum.
 ### Time complexity = O(n<sup>2</sup>)
 https://leetcode.com/problems/maximum-subarray/
